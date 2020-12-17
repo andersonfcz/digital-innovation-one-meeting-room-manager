@@ -6,7 +6,7 @@ Objetivo: Desenvolver um pequeno sistema para o gerenciamento de sala de reuniõ
 
 Foram utilizados neste projeto:
 
-- Back-end
+Back-end
 * Java 11
 * Springboot 2.4.1
 * Gradle
@@ -16,7 +16,7 @@ Foram utilizados neste projeto:
 * JPA
 * Spring validation
 
-- Front-end
+Front-end
 * Angular 11
 * Bootstrap
 * JQquery
